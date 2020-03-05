@@ -2,4 +2,4 @@
 404 animation
 
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=DY6hhIZjWtU)
+[![404_Animation](http://i3.ytimg.com/vi/DY6hhIZjWtU/hqdefault.jpg)](https://www.youtube.com/watch?v=DY6hhIZjWtU)
